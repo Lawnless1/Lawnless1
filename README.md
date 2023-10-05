@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Eric Deng, and I am a Co-op in Software Engineering student at McGill University.
+I love learning new libraries and programming languages as well as going to the gym 💪.
+You can check out my LinkedIn @ linkedin.com/in/eric-deng-software-engineering/
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lawnless1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Lawnless1/Lawnless1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
