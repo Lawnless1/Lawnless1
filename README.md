@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Eric Deng, and I am a Co-op in Software Engineering student at McGill University.
+Currently working with McGill Robotics on https://github.com/mcgill-robotics/rover.
 I love learning new libraries and programming languages as well as going to the gym 💪.
 You can check out my LinkedIn @ [linkedin.com/in/eric-deng-software-engineering/](https://www.linkedin.com/in/eric-deng-software-engineering/)
 
